@@ -27,7 +27,7 @@
                     </tr>
                     <tr>
                         <td><input type="submit" value="Ingresar"/></td>
-                        <input type="hidden" name="accion" value="4"/>
+                        <input type="hidden" name="accion" value="1"/>
                     </tr>
                 </table>
            <% if(request.getParameter("mensaje")!=null){%>
